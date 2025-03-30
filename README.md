@@ -1,5 +1,5 @@
 # # 💫 About Me:
-I am a Data analytics student <br>I'm into coding and stuff 
+As a dedicated computer science student at St. Vincent Matriculation Higher Secondary School, I have honed my skills in C programming language through hands-on projects and practical application. With a passion for problem-solving and a drive for continuous learning, I bring a proactive and detail-oriented approach to every task. My commitment to excellence, coupled with strong communication and teamwork abilities, allows me to thrive in collaborative environments and deliver results. Eager to contribute my technical expertise and enthusiasm for innovation to future endeavors in the field of computer science.
 
 
 ## 🌐 Socials:
